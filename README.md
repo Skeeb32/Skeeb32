@@ -261,25 +261,6 @@ I enjoy mentoring engineers, working with stakeholders, and translating business
 └───────────────────────────────────────────────┘
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=skeeb32&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeeb32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skeeb32/skeeb32/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
